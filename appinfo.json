@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "akcinco5@hotmail.com",
+    "longName": "Tight Rope Wrist",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/tightrope_title_screen.png",
+                "name": "TITLE_SCREEN",
+                "type": "png"
+            },
+            {
+                "file": "images/tightrope_menu_icon.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Tight Rope",
+    "uuid": "4a7c1f9c-bb98-4ae7-adf7-60ed330a9dbe",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
